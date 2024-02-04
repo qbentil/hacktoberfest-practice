@@ -1,10 +1,14 @@
 <!-- markdownlint-disable-next-line -->
 
+
+
 **Note** **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
 We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organization that you can contribute to. If you would like to join our GitHub organisation, raise an [issue](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo EddieHubCommunity-Support and you can also join the EddieHub [Discord](http://discord.eddiehub.org/) channel
 
+
 ---
+
 
 ## Hacktoberfest
 
@@ -53,6 +57,8 @@ flowchart LR
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
 You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
+
+
 
 ### Option 2. Complete this process on your computer (locally)
 
