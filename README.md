@@ -56,6 +56,8 @@ flowchart LR
 
 You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
 
+
+
 ### Option 2. Complete this process on your computer (locally)
 
 1. Fork the project:
